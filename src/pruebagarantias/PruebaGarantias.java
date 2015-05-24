@@ -21,6 +21,7 @@ public class PruebaGarantias {
         System.out.print("HOla Yohan");
         System.out.print("HOla Donald");
         System.out.print("HOla Yohan");
+        System.out.print("HOla Yohan");
     }
     
 }
