@@ -19,6 +19,7 @@ public class PruebaGarantias {
         // TODO code application logic here
         
         System.out.print("HOla Yohan");
+        System.out.print("HOla Donald");
     }
     
 }
